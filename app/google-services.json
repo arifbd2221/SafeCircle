@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "261832837849",
+    "firebase_url": "https://my-safe-circle.firebaseio.com",
+    "project_id": "my-safe-circle",
+    "storage_bucket": "my-safe-circle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261832837849:android:71787de3fc606c66",
+        "android_client_info": {
+          "package_name": "com.magosoft.safecircle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261832837849-ie2e6sphccs642vfk5jmjjibmc2foi93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.magosoft.safecircle",
+            "certificate_hash": "7d6268d7625d0d7a76d2ad146e0364d04c5c2a1e"
+          }
+        },
+        {
+          "client_id": "261832837849-uncfpvh70v2ipljkept7ct3dvm1sbgkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5sPDKFPdF5n_wbbSaaUND29T3ILJuQVw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261832837849-uncfpvh70v2ipljkept7ct3dvm1sbgkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
